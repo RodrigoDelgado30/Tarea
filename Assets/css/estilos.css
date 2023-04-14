@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@700&family=Ubuntu:wght@500&display=swap');
+*{
+   margin: 0;
+   padding: 0; 
+   box-sizing: border-box;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #7A481E;
+     } 
+     header{
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1019%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(122%2c 72%2c 30%2c 1)' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23623a18%3b'%3e%3c/rect%3e%3cpath d='M9.18 140C9.18 119.21 1.43 118.79 0 96.92C-3.16 48.79 -26.25 22.21 0 0C31.02 -26.25 57.45 -1.94 114.55 0C127.45 0.44 127.7 4.75 140 4.75C144.42 4.75 143.39 0.16 148 0C213.39 -2.22 214 0 280 0C350 0 350 0 420 0C490 0 490 0 560 0C580.59 0 581.16 -4.07 601.18 0C651.16 10.16 650.59 28.47 700 28.47C749.41 28.47 748.84 10.16 798.82 0C818.84 -4.07 819.41 0 840 0C910 0 910 0 980 0C1024.55 0 1034.34 -18.53 1069.09 0C1104.34 18.8 1099.19 74.67 1120 74.67C1138.31 74.67 1118.36 15.45 1147.32 0C1188.36 -21.89 1203.66 0 1260 0C1330 0 1330 0 1400 0C1470 0 1505 -35 1540 0C1575 35 1540 70 1540 140C1540 210 1540 210 1540 280C1540 350 1540 350 1540 420C1540 490 1575 525 1540 560C1505 595 1470 560 1400 560C1330 560 1330 560 1260 560C1190 560 1190 560 1120 560C1097.36 560 1096.42 565.31 1074.71 560C1026.42 548.18 1027.76 525.74 980 525.74C924.89 525.74 925 546.29 868.97 560C855 563.42 854.49 560 840 560C770 560 770 560 700 560C630 560 630 560 560 560C490 560 490 560 420 560C355.67 560 318.07 593.4 291.35 560C262.07 523.4 274.79 474.21 308 420C339.11 369.21 365.95 387.76 420 350C466.16 317.76 508.42 312.51 508.42 280C508.42 249.97 468.52 232.97 420 224.92C354.31 214.01 346.98 224.29 280 242.08C243.27 251.83 216.73 249.27 212.59 280C204.73 338.23 242.36 348.48 256 420C269.06 488.48 296.56 523.11 266 560C238.56 593.11 203 560 140 560C70 560 35 595 0 560C-35 525 0 490 0 420C0 350 0 350 0 280C0 217.78 -4.01 216.69 0 155.56C0.58 146.69 9.18 148.53 9.18 140' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M1400 95.61C1348.45 95.61 1286.25 123.05 1286.25 140C1286.25 156.08 1344.83 161.67 1400 161.67C1421.49 161.67 1439.57 154.25 1439.57 140C1439.57 121.22 1425.11 95.61 1400 95.61' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M700 266.54C680.65 267.93 663.16 271.8 663.16 280C663.16 288.82 679.52 298.61 700 300.59C767.94 307.15 770.06 295.78 840 297.07C910.06 298.36 910.68 310.34 980 305.75C1039.63 301.8 1097.89 296.51 1097.89 280C1097.89 262.9 1040.15 241.49 980 238.52C911.21 235.12 910.72 260.19 840 267.27C770.72 274.2 769.07 261.57 700 266.54' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M1260 371.43C1236.21 371.43 1204.65 397.08 1204.65 420C1204.65 441.2 1235.56 459.67 1260 459.67C1277.57 459.67 1288.67 440.5 1288.67 420C1288.67 396.38 1278.22 371.43 1260 371.43' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M66.56 140C97.81 97.87 98.55 96.05 140 64.07C189.27 26.05 192.22 25.53 248 0C262.22 -6.51 264 0 280 0C311.11 0 315.45 -12.17 342.22 0C385.45 19.65 383.97 28.85 420 63.64C456.46 98.85 487.2 109.69 487.2 140C487.2 161.64 454.56 156.59 420 167.54C350.96 189.41 346.54 178.14 280 205.63C210.43 234.37 180 224.3 147.78 280C118 331.49 141.49 352.17 156 420C171.44 492.17 213.17 511.84 207.67 560C205.17 581.84 173.83 560 140 560C70 560 46.67 583.33 0 560C-23.33 548.33 -18.93 514.76 0 490C34.6 444.76 107.06 458.36 107.06 420C107.06 377.86 39.69 380.9 0 329C-13.84 310.9 0 304.5 0 280C0 266.39 -5.73 264.83 0 252.78C27.55 194.83 27.81 192.23 66.56 140' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M612 140C612 112.64 652.32 104.07 700 87.8C766.32 65.18 773.25 84.61 840 62.22C904.12 40.71 899.99 27.44 961.74 0C969.99 -3.67 970.87 0 980 0C984.78 0 987.35 -4.07 989.55 0C1025.26 65.93 1058.94 83.45 1055.83 140C1054.16 170.3 1019.6 162.02 980 173.7C911.68 193.84 910.77 197.19 840 203.64C770.77 209.95 764.87 217.34 700 199.23C650.87 185.52 612 168.36 612 140' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M427 420C493.79 376.18 491.25 335.48 560 331.33C627.75 327.24 626.27 390.07 700 403.53C766.27 415.63 770.76 396.67 840 382.44C910.76 367.9 912.55 338.4 980 345.98C1052.55 354.13 1051.41 378.47 1120 413.91C1123.04 415.48 1123.26 416.83 1123.26 420C1123.26 424.54 1124.37 427.24 1120 429.33C1052.74 461.49 1052.61 477.62 980 488.51C912.61 498.62 909.62 482.31 840 471.33C769.62 460.23 766.31 433.17 700 444.35C626.31 456.77 622.47 473.91 560 518.52C541.49 531.74 557.95 554.1 538.04 560C487.95 574.84 479.02 560 420 560C379.33 560 338.65 583.14 338.65 560C338.65 514.73 377.86 489.95 420 423.18C422.04 419.95 423.79 422.11 427 420' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M123.93 140C123.93 130.38 129.7 128.39 140 123.39C207.73 90.55 215.69 59.57 280 64.32C328.12 67.87 364.85 110.7 364.85 140C364.85 163.12 323.9 162.57 280 169.17C211.47 179.47 201.58 185.3 140 173.79C123.55 170.72 123.93 155.58 123.93 140' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M1260 35.56C1242.99 35.56 1232.68 11.05 1232.68 0C1232.68 -6.73 1246.34 0 1260 0C1289.47 0 1318.95 -8.2 1318.95 0C1318.95 9.58 1286.12 35.56 1260 35.56' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M1540 75.68C1520.96 75.68 1473.33 22.78 1473.33 0C1473.33 -15.06 1524.39 -17.72 1540 0C1557.72 20.12 1554.29 75.68 1540 75.68' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M1324.62 280C1329.47 248.55 1362.89 245 1400 245C1432.54 245 1436.03 257.19 1463.91 280C1506.03 314.46 1515.44 314.36 1540 359.55C1553.49 384.36 1540 389.77 1540 420C1540 441.45 1555.77 452.81 1540 462.9C1485.77 497.61 1451.1 522.73 1400 509.6C1367.6 501.28 1387.6 464.45 1373.01 420C1349.91 349.65 1315.98 336.05 1324.62 280' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M896 420C896 403.65 938.8 386.21 980 386.21C1013.47 386.21 1045.33 403.61 1045.33 420C1045.33 436.14 1013.37 451.28 980 451.28C938.7 451.28 896 436.19 896 420' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M105 560C105 553.92 126.01 537.6 140 537.6C148.17 537.6 149.33 551.91 149.33 560C149.33 563.11 144.67 560 140 560C122.5 560 105 565.12 105 560' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3cpath d='M385.95 560C385.95 541.05 400.46 502.73 420 502.73C442.19 502.73 469.41 542.68 469.41 560C469.41 571.31 444.71 560 420 560C402.98 560 385.95 569.68 385.95 560' stroke='rgba(220%2c 167%2c 66%2c 0.43)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.43)%3b'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1019'%3e%3crect width='1440' height='560' fill='white' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23181a1b%3b'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+        height: 100px; /*asignado alto de la caja*/
+        color: #DCA742;
+        text-align: right;  /*alinea el texto a donde lo querramos*/
+        line-height: 100px; 
+     }
+     nav{
+        background-color: #DCA742;
+        text-align: left;
+        height: 3rem;
+     }
+     header h1{
+        padding: 10px;
+     }
+     nav ul li{
+        display: inline-block;
+        list-style: none;
+        margin: 10px;
+     }
+     nav ul li a{
+        color: #7A481E;
+        text-decoration: none;
+        font-weight: 1000;
+        line-height: 30px;
+     }
+     .homebox{
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+        line-height: 40px;
+     }
+     .homesection{
+        text-align: justify;
+        color: #DCA742;
+        font-size: 1.2rem;
+     }
+     main section article h2{
+        text-align: center;
+        font-size: 3rem;
+        padding: 20px;
+     }
+     .homeimg{
+        display: flex; /*indicamos que el contenido será flexible*/
+        justify-content: space-around;
+        padding: 10px;
+        margin: 20px;
+        gap: 20px;
+     }
+     .imgs{
+        width: 31rem;
+        box-shadow: 0 0 10px 4px rgb(220, 167, 66);
+     }
+     .tips{
+        padding: 20px;
+     }
+     .tittle-tips{
+        text-align: center;
+        background-color: #DCA742;
+        height: 4rem;
+     }
+     .tittle-tips{
+        font-size: 3rem;
+        color: #7A481E;
+        line-height: 20px;
+     }
+    .tips-sub{
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px;
+        height: 1rem;
+    }
+    .tipsp{
+        text-align: justify;
+        font-size: 1.3rem;
+        padding: 20px;
+    }
+    .table{
+        padding: 20px;
+    }
+    .tittle-table{
+        background-color: #DCA742;
+        height: 4rem;
+    }
+    .tittle-table{
+        font-size: 3rem;
+        color: #7A481E;
+        line-height: 20px;
+    }
+    table{
+        padding: 20px;
+    }
+    tr{
+        border: #DCA742 solid;
+        text-align: center;
+        font-size: 1.3rem;
+    }
+    td{
+        border: #DCA742 solid;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1021%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(122%2c 72%2c 30%2c 1)' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23623a18%3b'%3e%3c/rect%3e%3cpath d='M409.63 0C422.74 2.62 406.82 24.49 420 28C482.01 44.49 499.91 12.3 560 40C621.38 68.3 609.68 92.18 662.94 140C679.68 155.03 683.9 165.71 700 165.71C711.06 165.71 706.66 151.24 717.26 140C776.66 77.01 779.06 79.03 840 17.26C848.11 9.03 844.42 1.35 855.37 0C914.42 -7.28 917.69 0 980 0C1045.51 0 1061.62 -19.01 1111.03 0C1131.62 7.92 1115 53.85 1120 53.85C1125.04 53.85 1110.18 8.05 1131.11 0C1180.18 -18.87 1195.55 0 1260 0C1330 0 1330 0 1400 0C1470 0 1505 -35 1540 0C1575 35 1540 70 1540 140C1540 191.4 1557.68 201.2 1540 242.81C1527.93 271.2 1480.5 259.96 1480.5 280C1480.5 301.44 1526.81 294.73 1540 325.77C1556.56 364.73 1540 372.88 1540 420C1540 476.98 1570.99 515.64 1540 533.95C1500.99 557 1459.16 493.81 1400 502.73C1372.79 506.83 1393.92 549.1 1367.27 560C1323.92 577.73 1313.64 560 1260 560C1190 560 1190 560 1120 560C1070.74 560 1067.9 569.28 1021.48 560C997.9 555.28 998.59 548.64 980 532C920.41 478.64 919.38 478.59 865.13 420C849.38 402.99 850.96 380.8 840 380.8C829.95 380.8 824.2 399.09 823.1 420C819.47 488.69 862.41 523.75 830.54 560C800.86 593.75 765.27 560 700 560C630 560 630 560 560 560C495.38 560 491.94 566.65 430.77 560C421.94 559.04 428.81 544.78 420 544.78C353.43 544.78 350 552.39 280 560C280 560 280 560 280 560C210 560 210 560 140 560C70 560 35 595 0 560C-35 525 0 490 0 420C0 350 0 350 0 280C0 210 0 210 0 140C0 70 -35 35 0 0C35 -35 70 0 140 0C210 0 210 0 280 0C344.82 0 352.74 -11.38 409.63 0' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M980 105.36C957.24 105.36 941.82 120.99 941.82 140C941.82 163.02 954.95 189.41 980 189.41C1026.54 189.41 1085 161.52 1085 140C1085 119.5 1028.83 105.36 980 105.36' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M420 184.8C385.97 189.36 386 235.4 386 280C386 303.51 402.14 301.27 420 321.03C465.43 371.27 463.99 373.05 512.58 420C533.99 440.69 536.96 456.3 560 456.3C581.08 456.3 598.67 444.46 600.83 420C606.45 356.31 592.61 348.22 575.56 280C572.2 266.55 571.76 263.87 560 256.67C493.98 216.27 472.97 177.7 420 184.8' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 152.17C1236.24 152.17 1233.46 215.07 1227.33 280C1220.81 348.99 1221.85 353.77 1234.7 420C1238.18 437.96 1244.94 448.38 1260 448.38C1283.2 448.38 1301.41 444.72 1311.22 420C1334.82 360.53 1339.47 346.17 1326.82 280C1313.86 212.25 1285.98 152.17 1260 152.17' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M140 370.22C123.69 370.22 107.54 395.43 107.54 420C107.54 443.18 123.69 465.71 140 465.71C156.39 465.71 172.94 443.18 172.94 420C172.94 395.44 156.39 370.22 140 370.22' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M52.5 140C36.76 117.77 8.66 139.77 0 116.67C-17.59 69.77 -31.82 26.52 0 0C38.18 -31.82 70 0 140 0C140 0 140 0 140 0C210 0 238.7 -34.69 280 0C322.04 35.31 292.7 70.13 306.67 140C320.7 210.13 306.49 217.15 336 280C363.16 337.84 377.15 331.44 420 381.38C437.21 401.44 456.13 399.66 456.13 420C456.13 443.32 446.35 457.83 420 468.7C358.28 494.17 339.48 507.5 280 492.69C241.68 483.15 250.61 457.48 224.41 420C180.61 357.35 186.13 351.82 140 292.44C131.75 281.82 122.26 291.52 115.65 280C78.51 215.3 94.58 199.43 52.5 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M765.21 140C798.45 99.18 803.61 103.56 840 65.21C870.03 33.56 861.94 16.82 898.05 0C931.94 -15.79 939.03 0 980 0C1023.08 0 1066.15 -15.17 1066.15 0C1066.15 19.47 1022.03 33.42 980 69.28C939.98 103.42 902.05 101.2 902.05 140C902.05 187 930.48 232.01 980 240.88C1039.45 251.52 1062 168.14 1120 179.02C1166.22 187.7 1171.56 223.91 1188.44 280C1207.82 344.4 1171.77 357.44 1192.53 420C1207.55 465.28 1225.61 458.44 1260 495.68C1290.26 528.44 1321.82 541 1321.82 560C1321.82 573.16 1290.91 560 1260 560C1200.5 560 1198.01 566.98 1141 560C1128.01 558.41 1131.01 550.76 1120 542.86C1050.51 493.01 1048.51 495.47 980 444.5C965.95 434.04 964.08 434.81 954.87 420C912.92 352.56 922.89 343.46 877.69 280C865.45 262.81 859.21 258.7 840 258.7C818.09 258.7 805.32 259.38 795.45 280C766.7 340.03 765.84 349.44 762.76 420C759.73 489.44 803 515.93 783.24 560C771.62 585.93 741.62 560 700 560C630 560 630 560 560 560C522.31 560 484.62 573.25 484.62 560C484.62 543.01 523.18 530.79 560 499.51C605.59 460.79 627.94 470.57 649.44 420C674.6 360.82 635.92 342.95 653.33 280C661.2 251.52 680.35 261.73 700 237.14C736.29 191.73 728.45 185.15 765.21 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 82.5C1220.06 44.77 1186.67 24.78 1186.67 0C1186.67 -16.47 1223.34 0 1260 0C1330 0 1330 0 1400 0C1470 0 1470 0 1540 0C1540 0 1540 0 1540 0C1540 70 1540 70 1540 140C1540 164.06 1556.12 173.47 1540 188.13C1486.12 237.11 1454.29 280.01 1400 267.27C1351.73 255.94 1377.04 195.64 1334.88 140C1307.04 103.26 1294.16 114.77 1260 82.5' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M0 336.6C15.55 336.6 27.93 378.63 56.81 420C97.93 478.9 94.42 482.66 140 537.14C152.98 552.66 173.94 553.75 173.94 560C173.94 565.18 156.97 560 140 560C70 560 35 595 0 560C-35 525 0 490 0 420C0 378.3 -12.85 336.6 0 336.6' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1396.59 420C1396.59 397.33 1382.17 376.68 1400 373.33C1453.87 363.22 1481.2 373.48 1540 393.08C1551.2 396.81 1540 406.54 1540 420C1540 436.28 1552.98 452.27 1540 452.56C1482.98 453.86 1469.44 438.95 1400 423.18C1397.74 422.67 1396.59 422.26 1396.59 420' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M813.15 140C813.15 125.07 827.2 113.15 840 113.15C851.76 113.15 862.27 125.4 862.27 140C862.27 160.13 851.99 182.61 840 182.61C827.43 182.61 813.15 159.8 813.15 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M980 33.2C960.16 33.2 940.73 9.41 940.73 0C940.73 -7.19 960.37 0 980 0C1000.64 0 1021.28 -7.27 1021.28 0C1021.28 9.33 1000.44 33.2 980 33.2' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 20C1249.11 20 1242.22 6.01 1242.22 0C1242.22 -3.99 1251.11 0 1260 0C1280.74 0 1301.48 -4.74 1301.48 0C1301.48 5.26 1278.74 20 1260 20' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M262.5 280C262.81 268.22 273.28 262.5 280 262.5C285.03 262.5 284.53 270.89 286 280C297.25 349.64 307.98 358.61 305.45 420C304.98 431.3 291.73 425.38 280 425.38C276.94 425.38 276.28 423.34 275.88 420C267.53 350.65 260.75 346.97 262.5 280' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1013.6 280C1029.1 239.34 1073.38 236.39 1120 236.39C1141.36 236.39 1145.41 254.9 1149.56 280C1160.59 346.7 1160.72 352.91 1150.36 420C1145.94 448.62 1140.44 471.43 1120 471.43C1090.26 471.43 1069.96 455.91 1050 420C1016.76 360.2 994.1 331.15 1013.6 280' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M0 411.06C1.67 411.06 6.09 414.98 6.09 420C6.09 431.81 1.54 444.71 0 444.71C-1.5 444.71 0 432.36 0 420C0 415.53 -1.38 411.06 0 411.06' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M698.06 420C702.62 415.59 698.92 407.27 700 407.27C701.09 407.27 700.93 413.69 702.41 420C718.9 490.06 736.91 503.99 735.95 560C735.71 573.99 717.97 560 700 560C630 560 630 560 560 560C549.23 560 538.46 563.79 538.46 560C538.46 555.15 549.62 551.82 560 542.72C629.42 481.82 632.62 483.31 698.06 420' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1228.5 560C1228.5 555.47 1245.58 542.97 1260 542.97C1269.51 542.97 1276.36 554.97 1276.36 560C1276.36 563.48 1268.18 560 1260 560C1244.25 560 1228.5 563.98 1228.5 560' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1021'%3e%3crect width='1440' height='560' fill='white' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23181a1b%3b'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+   }
+   .head-table{
+        font-size: 1.5rem;
+        font-weight: 1000;
+        font-style: oblique;
+    }
+   .footer-container{
+        color: #DCA742;
+        font-size: 1.30rem;
+        padding: 10px;
+    }
+   .icons{
+        padding: 10px;
+    }
+   .portadas{
+    color: #DCA742;
+    padding-top: 20px;
+      padding: 10px
+    }
+   .tittletrip{
+   height: 4rem;
+   text-align: center;
+   font-size: 4rem;
+   padding-bottom: 80px;
+   }
+   .imgpaises{
+   width: 30.6rem;
+   height: 40rem;
+   box-shadow: 0 0 15px 5px rgb(220, 167, 66);
+   margin: 10px;
+   gap: 20px;
+   justify-content: center;
+   transition: all ,2s;
+   }
+   .imgpaises:hover{
+   transform: scale(1.1);
+   }
+   .imgpaisgt{
+   width: 30.6rem;
+   height: 40rem;
+   box-shadow: 0 0 15px 5px rgb(220, 167, 66);
+   margin: 10px;
+   gap: 20px;
+   justify-content: center;
+   transition: all ,2s;
+   }
+   .imgpaisgt:hover{
+   transform: scale(1.1);
+   }
+   .imgpaishn{
+   width: 30.6rem;
+   height: 40rem;
+   box-shadow: 0 0 15px 5px rgb(220, 167, 66);
+   margin: 10px;
+   gap: 20px;
+   justify-content: center;
+   transition: all ,2s;
+   }
+   .imgpaishn:hover{
+   transform: scale(1.1);
+   }
+   .ppais{
+   font-size: 1.2rem;
+   font-weight: 1000;   
+   padding-top: 10px;
+   }
+   tr{
+      border: #DCA742 solid;
+      text-align: center;
+      font-size: 1.3rem;
+   }
+   td{
+      border: #DCA742 solid;
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1021%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(122%2c 72%2c 30%2c 1)' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23623a18%3b'%3e%3c/rect%3e%3cpath d='M409.63 0C422.74 2.62 406.82 24.49 420 28C482.01 44.49 499.91 12.3 560 40C621.38 68.3 609.68 92.18 662.94 140C679.68 155.03 683.9 165.71 700 165.71C711.06 165.71 706.66 151.24 717.26 140C776.66 77.01 779.06 79.03 840 17.26C848.11 9.03 844.42 1.35 855.37 0C914.42 -7.28 917.69 0 980 0C1045.51 0 1061.62 -19.01 1111.03 0C1131.62 7.92 1115 53.85 1120 53.85C1125.04 53.85 1110.18 8.05 1131.11 0C1180.18 -18.87 1195.55 0 1260 0C1330 0 1330 0 1400 0C1470 0 1505 -35 1540 0C1575 35 1540 70 1540 140C1540 191.4 1557.68 201.2 1540 242.81C1527.93 271.2 1480.5 259.96 1480.5 280C1480.5 301.44 1526.81 294.73 1540 325.77C1556.56 364.73 1540 372.88 1540 420C1540 476.98 1570.99 515.64 1540 533.95C1500.99 557 1459.16 493.81 1400 502.73C1372.79 506.83 1393.92 549.1 1367.27 560C1323.92 577.73 1313.64 560 1260 560C1190 560 1190 560 1120 560C1070.74 560 1067.9 569.28 1021.48 560C997.9 555.28 998.59 548.64 980 532C920.41 478.64 919.38 478.59 865.13 420C849.38 402.99 850.96 380.8 840 380.8C829.95 380.8 824.2 399.09 823.1 420C819.47 488.69 862.41 523.75 830.54 560C800.86 593.75 765.27 560 700 560C630 560 630 560 560 560C495.38 560 491.94 566.65 430.77 560C421.94 559.04 428.81 544.78 420 544.78C353.43 544.78 350 552.39 280 560C280 560 280 560 280 560C210 560 210 560 140 560C70 560 35 595 0 560C-35 525 0 490 0 420C0 350 0 350 0 280C0 210 0 210 0 140C0 70 -35 35 0 0C35 -35 70 0 140 0C210 0 210 0 280 0C344.82 0 352.74 -11.38 409.63 0' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M980 105.36C957.24 105.36 941.82 120.99 941.82 140C941.82 163.02 954.95 189.41 980 189.41C1026.54 189.41 1085 161.52 1085 140C1085 119.5 1028.83 105.36 980 105.36' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M420 184.8C385.97 189.36 386 235.4 386 280C386 303.51 402.14 301.27 420 321.03C465.43 371.27 463.99 373.05 512.58 420C533.99 440.69 536.96 456.3 560 456.3C581.08 456.3 598.67 444.46 600.83 420C606.45 356.31 592.61 348.22 575.56 280C572.2 266.55 571.76 263.87 560 256.67C493.98 216.27 472.97 177.7 420 184.8' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 152.17C1236.24 152.17 1233.46 215.07 1227.33 280C1220.81 348.99 1221.85 353.77 1234.7 420C1238.18 437.96 1244.94 448.38 1260 448.38C1283.2 448.38 1301.41 444.72 1311.22 420C1334.82 360.53 1339.47 346.17 1326.82 280C1313.86 212.25 1285.98 152.17 1260 152.17' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M140 370.22C123.69 370.22 107.54 395.43 107.54 420C107.54 443.18 123.69 465.71 140 465.71C156.39 465.71 172.94 443.18 172.94 420C172.94 395.44 156.39 370.22 140 370.22' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M52.5 140C36.76 117.77 8.66 139.77 0 116.67C-17.59 69.77 -31.82 26.52 0 0C38.18 -31.82 70 0 140 0C140 0 140 0 140 0C210 0 238.7 -34.69 280 0C322.04 35.31 292.7 70.13 306.67 140C320.7 210.13 306.49 217.15 336 280C363.16 337.84 377.15 331.44 420 381.38C437.21 401.44 456.13 399.66 456.13 420C456.13 443.32 446.35 457.83 420 468.7C358.28 494.17 339.48 507.5 280 492.69C241.68 483.15 250.61 457.48 224.41 420C180.61 357.35 186.13 351.82 140 292.44C131.75 281.82 122.26 291.52 115.65 280C78.51 215.3 94.58 199.43 52.5 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M765.21 140C798.45 99.18 803.61 103.56 840 65.21C870.03 33.56 861.94 16.82 898.05 0C931.94 -15.79 939.03 0 980 0C1023.08 0 1066.15 -15.17 1066.15 0C1066.15 19.47 1022.03 33.42 980 69.28C939.98 103.42 902.05 101.2 902.05 140C902.05 187 930.48 232.01 980 240.88C1039.45 251.52 1062 168.14 1120 179.02C1166.22 187.7 1171.56 223.91 1188.44 280C1207.82 344.4 1171.77 357.44 1192.53 420C1207.55 465.28 1225.61 458.44 1260 495.68C1290.26 528.44 1321.82 541 1321.82 560C1321.82 573.16 1290.91 560 1260 560C1200.5 560 1198.01 566.98 1141 560C1128.01 558.41 1131.01 550.76 1120 542.86C1050.51 493.01 1048.51 495.47 980 444.5C965.95 434.04 964.08 434.81 954.87 420C912.92 352.56 922.89 343.46 877.69 280C865.45 262.81 859.21 258.7 840 258.7C818.09 258.7 805.32 259.38 795.45 280C766.7 340.03 765.84 349.44 762.76 420C759.73 489.44 803 515.93 783.24 560C771.62 585.93 741.62 560 700 560C630 560 630 560 560 560C522.31 560 484.62 573.25 484.62 560C484.62 543.01 523.18 530.79 560 499.51C605.59 460.79 627.94 470.57 649.44 420C674.6 360.82 635.92 342.95 653.33 280C661.2 251.52 680.35 261.73 700 237.14C736.29 191.73 728.45 185.15 765.21 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 82.5C1220.06 44.77 1186.67 24.78 1186.67 0C1186.67 -16.47 1223.34 0 1260 0C1330 0 1330 0 1400 0C1470 0 1470 0 1540 0C1540 0 1540 0 1540 0C1540 70 1540 70 1540 140C1540 164.06 1556.12 173.47 1540 188.13C1486.12 237.11 1454.29 280.01 1400 267.27C1351.73 255.94 1377.04 195.64 1334.88 140C1307.04 103.26 1294.16 114.77 1260 82.5' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M0 336.6C15.55 336.6 27.93 378.63 56.81 420C97.93 478.9 94.42 482.66 140 537.14C152.98 552.66 173.94 553.75 173.94 560C173.94 565.18 156.97 560 140 560C70 560 35 595 0 560C-35 525 0 490 0 420C0 378.3 -12.85 336.6 0 336.6' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1396.59 420C1396.59 397.33 1382.17 376.68 1400 373.33C1453.87 363.22 1481.2 373.48 1540 393.08C1551.2 396.81 1540 406.54 1540 420C1540 436.28 1552.98 452.27 1540 452.56C1482.98 453.86 1469.44 438.95 1400 423.18C1397.74 422.67 1396.59 422.26 1396.59 420' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M813.15 140C813.15 125.07 827.2 113.15 840 113.15C851.76 113.15 862.27 125.4 862.27 140C862.27 160.13 851.99 182.61 840 182.61C827.43 182.61 813.15 159.8 813.15 140' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M980 33.2C960.16 33.2 940.73 9.41 940.73 0C940.73 -7.19 960.37 0 980 0C1000.64 0 1021.28 -7.27 1021.28 0C1021.28 9.33 1000.44 33.2 980 33.2' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1260 20C1249.11 20 1242.22 6.01 1242.22 0C1242.22 -3.99 1251.11 0 1260 0C1280.74 0 1301.48 -4.74 1301.48 0C1301.48 5.26 1278.74 20 1260 20' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M262.5 280C262.81 268.22 273.28 262.5 280 262.5C285.03 262.5 284.53 270.89 286 280C297.25 349.64 307.98 358.61 305.45 420C304.98 431.3 291.73 425.38 280 425.38C276.94 425.38 276.28 423.34 275.88 420C267.53 350.65 260.75 346.97 262.5 280' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1013.6 280C1029.1 239.34 1073.38 236.39 1120 236.39C1141.36 236.39 1145.41 254.9 1149.56 280C1160.59 346.7 1160.72 352.91 1150.36 420C1145.94 448.62 1140.44 471.43 1120 471.43C1090.26 471.43 1069.96 455.91 1050 420C1016.76 360.2 994.1 331.15 1013.6 280' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M0 411.06C1.67 411.06 6.09 414.98 6.09 420C6.09 431.81 1.54 444.71 0 444.71C-1.5 444.71 0 432.36 0 420C0 415.53 -1.38 411.06 0 411.06' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M698.06 420C702.62 415.59 698.92 407.27 700 407.27C701.09 407.27 700.93 413.69 702.41 420C718.9 490.06 736.91 503.99 735.95 560C735.71 573.99 717.97 560 700 560C630 560 630 560 560 560C549.23 560 538.46 563.79 538.46 560C538.46 555.15 549.62 551.82 560 542.72C629.42 481.82 632.62 483.31 698.06 420' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3cpath d='M1228.5 560C1228.5 555.47 1245.58 542.97 1260 542.97C1269.51 542.97 1276.36 554.97 1276.36 560C1276.36 563.48 1268.18 560 1260 560C1244.25 560 1228.5 563.98 1228.5 560' stroke='rgba(220%2c 167%2c 66%2c 0.2)' stroke-width='2' data-darkreader-inline-stroke='' style='--darkreader-inline-stroke:rgba(223%2c 173%2c 80%2c 0.2)%3b'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1021'%3e%3crect width='1440' height='560' fill='white' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23181a1b%3b'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+   }
+   .head-table{
+      color: #DCA742;
+   }
+   .tablec{
+      color: #DCA742;
+      text-align: center;
+      font-size: 1.3rem;
+   }
+   .tittle-servicios{
+      background-color: #DCA742;
+      height: 4rem;
+      margin: 20px;
+   }
+   .tittle-servicios{
+      font-size: 3rem;
+      color: #7A481E;
+      line-height: 20px;
+   }
+   .somos{
+      padding-top: 20px;
+      color: #DCA742;
+      margin: 10px;
+   }
+   .somos{
+      font-size: 1.3rem;
+      text-align: left;
+      line-height: 40px;
+   }
+   .sert{
+      padding: 30px;
+      margin: 90px;
+   }
+   .sertable{
+      color: #DCA742;
+      font-size: 2.5rem;
+      text-align: center;
+   }
+   .tables{
+      color: #DCA742;
+      font-size: 1.5rem;
+      text-align: center;
+   }
+   .reserva{
+      color: #DCA742;
+      font-size: 3rem;
+      text-align: center;
+      padding-top: 30px;
+   }
+   .form{
+      width: 400px;
+      background-color: #A8743F;
+      padding: 50px;
+      margin: auto;
+      margin-top: 100px;
+      border-radius: 10px;
+      color: #7A481E;
+      box-shadow: 0 0 15px 5px rgb(220, 167, 66);
+   }
+   .form-tittle{
+      font-size: 2rem;
+      margin-bottom: 50px;
+      text-align: center;
+   }
+   .datos{
+      width: 100%;
+      background-color: #A8743F;
+      padding: 10px;
+      border-radius: 10px;
+      margin-bottom: 16px;
+      border: #7A481E solid 1px;
+      font-size: 15px;
+      color: #DCA742;
+   }
+   .form p{
+      padding: 10px;
+   }
+   button{
+      width: 100%;
+      background-color: #7A481E;
+      border: none;
+      border-radius: 50px;
+      padding: 12px;
+      color: #DCA742;
+      margin: 5px;
+      font-size: 20px;
+      transition: all ,2s;
+   }
+   button:hover{
+      transform: scale(1.1);
+   }
+   .name{
+      font-size: 16px;
+      line-height: 30px;
+   }
